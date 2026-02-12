@@ -55,7 +55,7 @@
 # How to Run
 
 - Clone the repository
-- git clone https://github.com/sadvika-ch/inverted-search-c.git
+- git clone https://github.com/gayathrikarasi-dev/inverted-search-c.git
 - cd apc-in-c
 
 - Compile the program
