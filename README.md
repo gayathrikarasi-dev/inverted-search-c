@@ -63,4 +63,28 @@
 
 - Run the program
 - ./inverted_search
--
+
+250046_INVERTED_SEARCH/
+├─ images/
+│  ├─ Create.png
+│  ├─ Display.png
+│  ├─ Errors.png
+│  ├─ Save.png
+│  ├─ Search.png
+│  └─ Update.png
+├─ include/
+│  └─ inverted.h
+├─ src/
+│  ├─ create.c
+│  ├─ display.c
+│  ├─ inverted.c
+│  ├─ main.c
+│  ├─ save.c
+│  ├─ search.c
+│  └─ update.c
+├─ database.txt
+├─ f1.txt
+├─ f2.txt
+├─ f3.txt
+├─ README.md
+└─ .gitignore
