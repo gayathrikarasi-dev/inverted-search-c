@@ -64,6 +64,8 @@
 - Run the program
 - ./inverted_search
 
+## Project Structure
+
 250046_INVERTED_SEARCH/
 ├─ images/
 │  ├─ Create.png
