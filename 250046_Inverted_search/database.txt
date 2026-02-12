@@ -1,0 +1,7 @@
+#INDEX;WORD;FILECOUNT;FILENAME;WORDCOUNT
+#6;Gayathri;1;f3.txt;1;#
+#7;hiii;1;f1.txt;1;#
+#7;hello;1;f1.txt;1;#
+#8;is;1;f3.txt;1;#
+#10;karasi;1;f3.txt;1;#
+#19;This;1;f3.txt;1;#
